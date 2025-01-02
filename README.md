@@ -12,8 +12,7 @@ Sou estudante de **Engenharia da Computação** na **PUC/GO** desde 2023 e atual
 ## 🌟 **Sobre Mim**
 - 🔭 Atualmente desenvolvendo sistemas internos no **CRMVGO**.  
 - 🌱 Focado em aprender **Next.js** e **TypeScript**.  
-- 💬 Pergunte-me sobre **Python**, **Django** ou **desenvolvimento web**.  
-- ⚡ Fato curioso: Sou apaixonado por resolver problemas com código eficiente e funcional.  
+- 💬 Pergunte-me sobre **Python**, **Django** ou **desenvolvimento web**.   
 
 ---
 
