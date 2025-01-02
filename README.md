@@ -1,29 +1,63 @@
-# Pedro Henrique Faria dos Santos Soares
+# 👋 Olá, eu sou **Pedro Henrique Faria dos Santos Soares** (PhTheDev)  
 
-Sou estudante de Engenharia da Computação na **PUC/GO** desde 2023 e atualmente atuo como **Estagiário de TI** no Conselho Regional de Medicina Veterinária de Goiás (**CRMVGO**). No meu dia a dia, estou envolvido no desenvolvimento de sites e sistemas internos para otimizar as operações da instituição, além de prestar suporte técnico aos usuários.
+Sou estudante de **Engenharia da Computação** na **PUC/GO** desde 2023 e atualmente trabalho como **Estagiário de TI** no Conselho Regional de Medicina Veterinária de Goiás (**CRMVGO**).  
 
-Tenho conhecimentos em **desenvolvimento FULL STACK**, com foco em **Python** e **Django** no backend. No frontend, estou aprendendo e me especializando em **Next.js** e **TypeScript**. Sempre buscando aprender e evoluir, meu objetivo é criar soluções eficientes e que façam a diferença para os usuários e para o negócio.
+💻 No meu dia a dia, estou envolvido em:  
+- Desenvolvimento de **sistemas internos** e **sites** para otimizar processos da instituição.  
+- **Suporte técnico** aos usuários.  
+- Aprendendo tecnologias modernas para ampliar minhas habilidades.  
 
 ---
 
-## 👨‍💻 Áreas de Interesse:
-- Desenvolvimento web (frontend e backend)  
+## 🌟 **Sobre Mim**
+- 🔭 Atualmente desenvolvendo sistemas internos no **CRMVGO**.  
+- 🌱 Focado em aprender **Next.js** e **TypeScript**.  
+- 💬 Pergunte-me sobre **Python**, **Django** ou **desenvolvimento web**.  
+- ⚡ Fato curioso: Sou apaixonado por resolver problemas com código eficiente e funcional.  
+
+---
+
+## 👨‍💻 **Áreas de Interesse**
+- Desenvolvimento web (**frontend** e **backend**)  
 - Criação de sistemas internos personalizados  
 - Aprendizado contínuo em tecnologias modernas  
 
 ---
 
-## 🔧 Habilidades Técnicas:
-- **Backend**: Python, Django  
-- **Frontend**: HTML, CSS, JavaScript, Next.js (aprendendo), TypeScript (aprendendo)  
-- **Outros**: Suporte técnico e solução de problemas para usuários  
+## 🔧 **Habilidades Técnicas**
+- **Backend**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+
+- **Frontend**:  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) *(aprendendo)*  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) *(aprendendo)*  
+
+- **Outros**:  
+  Suporte técnico e solução de problemas para usuários  
 
 ---
 
-## 🚀 Projetos e Experiência:
-- Desenvolvimento de sites e sistemas para o CRMVGO  
-- Automação de processos internos  
-- Suporte técnico e manutenção de sistemas  
+## 🚀 **Projetos e Experiência**
+- 🛠 Desenvolvimento de **sites e sistemas** para o CRMVGO.  
+- ⚙️ **Automação de processos internos** para otimizar fluxos de trabalho.  
+- 👨‍🔧 Suporte técnico e manutenção de sistemas em operação.  
+
+---
+
+## 📊 **GitHub Stats**
+
+![PhTheDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhTheDev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhTheDev&layout=compact&theme=radical)
+
+---
+
+## 📫 **Contato**
+- **Email**: [phthedev@gmail.com](mailto:phthedev@gmail.com)  
+- **GitHub**: [PhTheDev](https://github.com/PhTheDev)
 
 ---
 
