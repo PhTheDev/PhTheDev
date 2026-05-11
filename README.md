@@ -1,19 +1,19 @@
 # Pedro Henrique Faria dos Santos Soares
-### Software Engineering Intern | Full-Stack Developer
+### Desenvolvedor Full-Stack
 
-Computer Engineering student at PUC Goiás with hands-on experience building enterprise systems, REST APIs, and scalable web applications using Python, Django, Django REST Framework, Next.js, React, and PostgreSQL.
+Estudante de Engenharia da Computação na PUC Goiás com experiência prática no desenvolvimento de sistemas corporativos, APIs REST e aplicações web escaláveis utilizando Python, Django, Django REST Framework, Next.js, React e PostgreSQL.
 
-Currently working at CRMV-GO developing internal management platforms, modern web applications, and infrastructure workflows focused on scalability, maintainability, and process automation.
+Atualmente atuando no CRMV-GO no desenvolvimento de plataformas internas de gestão, aplicações web modernas e fluxos de infraestrutura focados em escalabilidade, manutenibilidade e automação de processos.
 
 ---
 
-# About Me
+# Sobre Mim
 
-- Building production-grade systems with Django and Next.js
-- Developing scalable REST APIs and full-stack applications
-- Working with Docker-based infrastructure and CI/CD pipelines
-- Focused on software architecture, clean code, and scalable systems
-- Passionate about backend engineering and modern web development
+- Desenvolvendo sistemas em produção com Django e Next.js
+- Construindo APIs REST escaláveis e aplicações full-stack
+- Trabalhando com infraestrutura baseada em Docker e pipelines CI/CD
+- Focado em arquitetura de software, clean code e sistemas escaláveis
+- Apaixonado por backend engineering e desenvolvimento web moderno
 
 ---
 
@@ -30,7 +30,7 @@ Currently working at CRMV-GO developing internal management platforms, modern we
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## Database & Infrastructure
+## Banco de Dados & Infraestrutura
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,13 +38,13 @@ Currently working at CRMV-GO developing internal management platforms, modern we
 
 ---
 
-# Current Focus
+# Foco Atual
 
-- Full-stack development with Django REST Framework and Next.js
-- Scalable backend architecture and API design
-- CI/CD workflows and Docker infrastructure
-- Performance, maintainability, and clean architecture
-- Modern frontend development with React and TypeScript
+- Desenvolvimento full-stack com Django REST Framework e Next.js
+- Arquitetura backend escalável e design de APIs
+- Workflows CI/CD e infraestrutura com Docker
+- Performance, manutenibilidade e clean architecture
+- Desenvolvimento frontend moderno com React e TypeScript
 
 ---
 
@@ -56,9 +56,9 @@ Currently working at CRMV-GO developing internal management platforms, modern we
 
 ---
 
-# Contact
+# Contato
 
 - Email: phthedev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/phthedev/
-- Portfolio: https://portifoliophf.netlify.app/
+- Portfólio: https://portifoliophf.netlify.app/
 - GitHub: https://github.com/PhTheDev
