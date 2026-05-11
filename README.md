@@ -1,63 +1,64 @@
-# 👋 Olá, eu sou **Pedro Henrique Faria dos Santos Soares** (PhTheDev)  
+# Pedro Henrique Faria dos Santos Soares
+### Software Engineering Intern | Full-Stack Developer
 
-Sou estudante de **Engenharia da Computação** na **PUC/GO** desde 2023 e atualmente trabalho como **Estagiário de TI** no Conselho Regional de Medicina Veterinária de Goiás (**CRMVGO**).  
+Computer Engineering student at PUC Goiás with hands-on experience building enterprise systems, REST APIs, and scalable web applications using Python, Django, Django REST Framework, Next.js, React, and PostgreSQL.
 
-💻 No meu dia a dia, estou envolvido em:  
-- Desenvolvimento de **sistemas internos** e **sites** para otimizar processos da instituição.  
-- **Suporte técnico** aos usuários.  
-- Aprendendo tecnologias modernas para ampliar minhas habilidades.  
+Currently working at CRMV-GO developing internal management platforms, modern web applications, and infrastructure workflows focused on scalability, maintainability, and process automation.
 
 ---
 
-## 🌟 **Sobre Mim**
-- 🔭 Atualmente desenvolvendo sistemas internos no **CRMVGO**.  
-- 🌱 Focado em aprender **Next.js** e **TypeScript**.  
-- 💬 Pergunte-me sobre **Python**, **Django** ou **desenvolvimento web**.   
+# About Me
+
+- Building production-grade systems with Django and Next.js
+- Developing scalable REST APIs and full-stack applications
+- Working with Docker-based infrastructure and CI/CD pipelines
+- Focused on software architecture, clean code, and scalable systems
+- Passionate about backend engineering and modern web development
 
 ---
 
-## 👨‍💻 **Áreas de Interesse**
-- Desenvolvimento web (**frontend** e **backend**)  
-- Criação de sistemas internos personalizados  
-- Aprendizado contínuo em tecnologias modernas  
+# Tech Stack
+
+## Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-DRF-red?style=flat)
+
+## Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+## Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 🔧 **Habilidades Técnicas**
-- **Backend**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+# Current Focus
 
-- **Frontend**:  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)    
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-
-- **Outros**:  
-  Suporte técnico e solução de problemas para usuários  
+- Full-stack development with Django REST Framework and Next.js
+- Scalable backend architecture and API design
+- CI/CD workflows and Docker infrastructure
+- Performance, maintainability, and clean architecture
+- Modern frontend development with React and TypeScript
 
 ---
 
-## 🚀 **Projetos e Experiência**
-- 🛠 Desenvolvimento de **sites e sistemas** para o CRMVGO.  
-- ⚙️ **Automação de processos internos** para otimizar fluxos de trabalho.  
-- 👨‍🔧 Suporte técnico e manutenção de sistemas em operação.  
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhTheDev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhTheDev&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 **GitHub Stats**
+# Contact
 
-![PhTheDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhTheDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhTheDev&layout=compact&theme=radical)
-
----
-
-## 📫 **Contato**
-- **Email**: [phthedev@gmail.com](mailto:phthedev@gmail.com)  
-- **GitHub**: [PhTheDev](https://github.com/PhTheDev)
-
----
-
-Conecte-se comigo para acompanhar meu aprendizado e projetos! 🚀
+- Email: phthedev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/phthedev/
+- Portfolio: https://portifoliophf.netlify.app/
+- GitHub: https://github.com/PhTheDev
