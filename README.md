@@ -3,8 +3,6 @@
 
 Estudante de Engenharia da Computação na PUC Goiás com experiência prática no desenvolvimento de sistemas corporativos, APIs REST e aplicações web escaláveis utilizando Python, Django, Django REST Framework, Next.js, React e PostgreSQL.
 
-Atualmente atuando no CRMV-GO no desenvolvimento de plataformas internas de gestão, aplicações web modernas e fluxos de infraestrutura focados em escalabilidade, manutenibilidade e automação de processos.
-
 ---
 
 # Sobre Mim
